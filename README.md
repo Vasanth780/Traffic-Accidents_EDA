@@ -17,5 +17,6 @@ This dataset contains detailed information on traffic accidents across various r
 
 📊 Columns:
 
-.crash_date: The date the accident occurred.
+1.crash_date: The date the accident occurred.
+2.traffic_control_device: The type of traffic control device involved (e.g., traffic light, sign).
 
