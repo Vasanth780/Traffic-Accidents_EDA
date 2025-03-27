@@ -1,7 +1,7 @@
 # Traffic-Accidents_EDA
 
 
-🌍 Dataset Description
+# 🌍 Dataset Description
 
 
 This dataset contains detailed information on traffic accidents across various regions and time periods. It includes various metrics such as accident date, weather conditions, lighting conditions, crash types, injuries, and vehicle involvement. The data spans multiple locations and accident types, offering a comprehensive view of traffic incidents and their causes.
@@ -15,7 +15,7 @@ This dataset contains detailed information on traffic accidents across various r
 
 
 
-📊 Columns:
+# 📊 Columns:
 
 1.crash_date: The date the accident occurred.
 
@@ -62,7 +62,7 @@ This dataset contains detailed information on traffic accidents across various r
 
 22.crash_hour: The hour the accident occurred.
 
-🔍 Use Cases:
+# 🔍 Use Cases:
 
 Accident Analysis: Analyze accident trends, types, and the severity of injuries across different locations, time periods, and conditions.
 
